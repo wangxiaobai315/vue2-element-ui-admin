@@ -1,0 +1,20 @@
+{
+  "name": "ceshi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shuju.js",
+  "scripts": {
+    "start": "node shuju.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-router": "^10.1.1",
+    "koa-Router": "^1.0.5"
+  }
+}
